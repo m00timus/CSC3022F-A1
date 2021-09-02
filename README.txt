@@ -1,7 +1,7 @@
 student number: GRLMAT001 
 Name: Matt Gruler
 
-Makefile: obviously designed to compile/clean/run program.
+Makefile: designed to compile/clean/run program.
 type make to compile the files.
 type make run to run the file in terminal.
 type make clean to clean the program.
